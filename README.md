@@ -1,4 +1,4 @@
-# EMPLOYEE [DATABASE](https://github.com/datacharmer/test_db)
+# EMPLOYEE [DATABASE](https://github.com/datacharmer/test_db) Analysis using [TABLEAU](https://public.tableau.com/app/profile/julia8260/viz/employee-final2/LANDING_) & [SQL](https://github.com/vuntesmeri/Final-Project/blob/dea891fec43e6315d537d2e7d19c2de54dd5e48f/Employee_SQL.sql)
 
 [EMPLOYEE TABLEAU](https://public.tableau.com/app/profile/julia8260/viz/employee-final2/LANDING_)
 
